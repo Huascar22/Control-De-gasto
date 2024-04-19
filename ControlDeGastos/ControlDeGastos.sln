@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vistas", "ControlDeGastos\Vistas.csproj", "{279FA79D-BD23-4352-B713-78D96391EE67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelo", "Modelo\Modelo.csproj", "{4C9198A2-505F-46E6-B938-C22A06932F81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controlador", "Controlador\Controlador.csproj", "{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279FA79D-BD23-4352-B713-78D96391EE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279FA79D-BD23-4352-B713-78D96391EE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279FA79D-BD23-4352-B713-78D96391EE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279FA79D-BD23-4352-B713-78D96391EE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9198A2-505F-46E6-B938-C22A06932F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9198A2-505F-46E6-B938-C22A06932F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9198A2-505F-46E6-B938-C22A06932F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9198A2-505F-46E6-B938-C22A06932F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CFE9C6-CD3A-4FA7-9916-7A95B9BCA725}
+	EndGlobalSection
+EndGlobal

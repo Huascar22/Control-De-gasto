@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Login Template</title>
+    <link rel="stylesheet" href="../css/login.css">
+    <link rel="stylesheet" href="../css/cargando.css">
+  </head>
+
+  <body>
+
+    <div class="login-container" id="formularioLogin">
+      <form class="login-form">
+        <h2>Login</h2>
+        <input type="text" placeholder="Username" required id="usernameLogin"/>
+        <input type="password" placeholder="Password" required id="password"/>
+        <input type="submit" value="Sign In" id="Btn-login"/>
+      
+        <p>
+          Crear Usuario? <a href="#" id="RegistrarUsuario">Click aquì</a>
+        </p>
+      </form>
+    </div>
+
+    <div class="login-container" id="formularioRegistro">
+      <form class="login-form">
+        <h2>Registro</h2>
+        <input type="text" placeholder="Name" required id="name">
+        <input type="text" placeholder="Username" required id="username"> 
+        <input type="email" placeholder="Email" required id="emailRegistro"/>
+        <input type="password" placeholder="Password" required id="passwordRegistro"/>
+        <input type="text" name="Phone" placeholder="Phone" required id="phone">
+        <input type="submit" value="Crear" id="Btn-Registro"/>      
+      </form>
+    </div>
+
+    <div class="login-container" id="formularioValidar">
+      <form class="login-form">
+        <h2>Validar Correo</h2>
+        <input type="text" name="codigo" id="codigoformulario" placeholder="Codigo de Validacion">
+        <input type="submit" value="Validar" id="Btn-Validar">
+      </form>
+    </div>
+
+    <section class="loading" id="Cargando">
+      <span class="loading__anim"></span>
+    </section>
+
+    
+    <script src="../js/login.js"></script>
+    <script src="../js/registro.js"></script>
+    <script src="../js/GuardarUsuario.js"></script>
+    
+    
+  </body>
+
+  <img src="../img/48a293976e2c10478e2eebf754ee8d25.gif" alt="" id="imagen">
+</html>

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\bin\Debug\net7.0\Entidades.exe
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\bin\Debug\net7.0\Entidades.deps.json
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\bin\Debug\net7.0\Entidades.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\bin\Debug\net7.0\Entidades.dll
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\obj\Debug\net7.0\Entidades.dll
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\obj\Debug\net7.0\refint\Entidades.dll
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\obj\Debug\net7.0\Entidades.pdb
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\obj\Debug\net7.0\Entidades.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Entidades\obj\Debug\net7.0\ref\Entidades.dll

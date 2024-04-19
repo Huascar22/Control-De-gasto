@@ -1,0 +1,228 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+    background-color: yellow;
+    color: purple;
+    height: 10vh;
+    display: grid;
+    place-items: center;     
+}
+nav{
+    padding-top: 2vh;
+    border-bottom: gray solid 0.5vh;
+    height: 4vh;
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: 0 0 1vh rgba(0, 0, 0, 0.6); 
+}
+nav a{
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: purple; /* Color de texto predeterminado */
+    transition: color 0.3s; /* Transición suave de color */   
+}
+nav a:hover{
+    color: yellow;
+}
+#main{
+    height: 79.5vh;
+    width: 100vw;  
+}
+#footer{
+    background-color:yellow;
+    height: 4vh;
+}
+
+.aside{
+    text-align: center;
+    background-color: rgb(237, 237, 189);
+    width: 15vw;
+    height: 79.5vh;
+    box-shadow: 0 0 1vh rgba(0, 0, 0, 0.6); ;
+}
+
+.form-container{
+    
+    width: 85vw;
+    height: 79.5vh;
+}
+
+.aside a{
+    display: block; 
+    text-decoration: none; 
+    font-size: 18px; 
+    font-family: Arial, sans-serif; 
+    color: purple;
+    margin-bottom: 10px; 
+    padding: 10px 0; 
+    border-bottom: 2px solid purple; 
+}
+
+.login-form {
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  }
+  .login-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+  }
+  .login-form input[type="email"],
+  .login-form input[type="password"],
+  .login-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+  }
+  .login-form input[type="submit"] {
+    display: block;
+    width: 100%;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .login-form input[type="submit"]:hover {
+    background-color: #111;
+  }
+  .login-form p {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .login-form a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+
+  }
+  .login-form a:hover {
+    color: yellow;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between; /* Distribuye los elementos horizontalmente */
+    align-items: flex-start; /* Alínea los elementos al principio del contenedor */
+}
+
+.aside {
+    margin-right: 20px; /* Espacio entre el aside y el formulario */
+}
+
+
+
+.form-container {
+    flex: 1; /* El formulario ocupa la misma fracción del espacio disponible */
+    display: flex;
+    justify-content: center; /* Centra el formulario horizontalmente */
+    align-items: center; /* Centra el formulario verticalmente */
+}
+
+#MenuCuenta, #formulario, #formularioPassword, 
+#FormularioEmail, #FormularioUsername, 
+#FormularioPhone, #FormularioNombre, 
+#FormularioGastoLimite, #MenuCategoria,
+#FormularioCrearCategoria, 
+#FormularioEliminarCategoria, #FormularioCrearGasto,
+#chartContainer{
+    display: none;
+}
+
+.alert {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f3f3f3;
+  padding: 20px;
+  border: 2px solid yellow;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  display: none;
+}
+
+.containertargetas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  margin-right: 20px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.delete-button, .add-button {
+  background-color: #4CAF50; /* Color de fondo predeterminado para ambos */
+  border: none; /* Sin borde */
+  color: white; /* Color del texto */
+  padding: 5px; /* Ajuste el espaciado interno para hacerlos cuadrados */
+  text-align: center; /* Alineación del texto */
+  text-decoration: none; /* Sin subrayado */
+  font-size: 16px; /* Tamaño del texto */
+  margin: 4px; /* Margen externo */
+  cursor: pointer; /* Cambio de cursor al pasar por encima */
+  border-radius: 5px; /* Radio del borde */
+  width: 25px; /* Anchura fija para ambos botones */
+  display: inline-block; /* Mostrar como un bloque en línea */
+}
+
+.delete-button {
+  background-color: red; /* Color de fondo específico para el botón de eliminar */
+}
+
+.delete-button:hover, .add-button:hover,
+.create-expense-button:hover {
+  background-color: darkred; /* Cambiar el color de fondo al pasar el cursor para ambos botones */
+}
+
+
+
+.create-expense-button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 1px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+

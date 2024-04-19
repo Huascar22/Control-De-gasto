@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/dashborad.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/canvasjs.min.js"></script>
+    
+    
+    <title>Presupuesto</title>
+</head>
+<body>
+    <header id="header">
+        <h1>Presupuesto</h1>
+    </header>
+
+    <div class="centro">
+       <nav>
+        <a href="#" id="AdministrarCuenta">Administración de cuenta</a>
+        <a href="#" id="AdministrarCategorias">Gestión de categorías <span id="Signo+">+</span></a>
+        <a href="#" id="analisisGastos">Análisis de Gastos</a>
+       </nav>
+
+        <main id="main">
+
+            <div id="chartContainer" style="height: 300px; width: 100%;"></div>
+            <div id="MenuCuenta" class="container">
+                <aside class="aside">
+                    <a href="#" id="InformacionFormulario">Ver Informaciòn</a>
+                    <a href="#" id="A-CambiarPhone">Cambiar Telefono</a>
+                    <a href="#" id="A-CambiarEmail">Cambiar Email</a>
+                    <a href="#" id="A-CambiarUsername">Cambiar Username</a>
+                    <a href="#" id="A-CambiarNombre">Cambiar nombre</a>
+                    <a href="#" id="A-CrearLimiteGasto">Crear Limite</a>
+                </aside>
+                
+                <div class="form-container" id="formulario">
+                    <form class="login-form">
+                        <h2>Información</h2>
+                        <input type="text" placeholder="Nombre" required id="name" readonly>
+                        <input type="text" placeholder="Usuario" required id="username" readonly> 
+                        <input type="email" placeholder="Correo Electrónico" required id="emailRegistro"/ readonly>
+                        <input type="text" name="Teléfono" placeholder="Teléfono" required id="phone" readonly>                      
+                    </form>
+                </div>
+
+                <div class="form-container" id="FormularioNombre">
+                    <form class="login-form">
+                        <h2>Actualizar Nombre</h2>
+                        <input type="text" id="NombreNuevo" required placeholder="Nombre">
+                        <input type="submit" value="Actualizar" id="Btn-ActualizarNombre">
+                    </form>
+                </div>
+
+                <div class="form-container" id="FormularioEmail">
+                    <form class="login-form">
+                        <h2>Actualizar Email</h2>
+                        <input type="email" id="EmailNuevo" required placeholder="Email">
+                        <input type="submit" value="Actualizar" id="Btn-ActualizarEmail">
+                    </form>
+                </div>
+
+                <div class="form-container" id="FormularioPhone">
+                    <form class="login-form">
+                        <h2>Atualizar Phone</h2>
+                        <input type="text" id="PhoneNuevo" required placeholder="Phone">
+                        <input type="submit" value="Actualizar" id="Btn-ActualizarPhone">
+                    </form>
+                </div>
+
+                <div class="form-container" id="FormularioUsername">
+                    <form class="login-form">
+                        <h2>Atualizar Username</h2>
+                        <input type="text" id="UsernameNuevo" required placeholder="Username">
+                        <input type="submit" value="Actualizar" id="Btn-ActualizarUsername">
+                    </form>
+                </div>
+
+                <div class="form-container" id="FormularioGastoLimite">
+                    <form class="login-form">
+                        <h2>Limite Gasto</h2>
+                        <input type="text" id="inputGastoLimite" required placeholder="Gasto">
+                        <input type="submit" value="Actualizar" id="Btn-ActualizarGasto">
+                    </form>
+                </div>
+                
+            </div>
+
+            <div id="MenuCategoria" class="container">
+                <div class="form-container" id="FormularioCrearCategoria">
+                    <form class="login-form">
+                        <h2>Crear Categoria</h2>
+                        <input type="text" id="InputCrearCategoria" required placeholder="Categoria">
+                        <input type="submit" value="Actualizar" id="btn-CrearCategoria">
+                    </form>
+                </div>
+
+                <div class="form-container" id="FormularioCrearGasto">
+                    <form class="login-form">
+                        <h2>Crear Gasto</h2>
+                        <input type="text" id="InputCrearGastoNombre" required placeholder="Nombre">
+                        <input type="number" id="InputCrearGastoCantidad" required placeholder="Cantidad">
+                        <input type="submit" value="Crear" id="btn-CrearGasto">
+                    </form>
+                </div>
+
+                <div id="cards-container" class="containertargetas"></div>
+                
+            </div>
+            <div></div>
+
+            <div class="alert" id="alert">
+                Realizado
+            </div>
+        </main>
+    </div>
+
+    
+    
+
+
+
+    <footer id="footer">
+
+    </footer>
+    <script src="../js/Cuenta.js"></script>
+    <script src="../js/EventosActualizar.js"></script>
+    <script src="../js/limiteGasto.js"></script>
+    <script src="../js/categorias.js"></script>
+    <script src="../js/gastos.js"></script>
+    <script src="../js/graficos.js"></script>
+</body>
+</html>
