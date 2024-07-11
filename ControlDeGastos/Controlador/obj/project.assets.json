@@ -1133,7 +1133,7 @@
           }
         }
       },
-      "Modelo/1.0.0": {
+      "ControlDeGastos.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -1141,10 +1141,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/Modelo.dll": {}
+          "bin/placeholder/ControlDeGastos.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Modelo.dll": {}
+          "bin/placeholder/ControlDeGastos.Data.dll": {}
         }
       }
     }
@@ -3470,16 +3470,16 @@
         "telegram.bot.nuspec"
       ]
     },
-    "Modelo/1.0.0": {
+    "ControlDeGastos.Data/1.0.0": {
       "type": "project",
-      "path": "../Modelo/Modelo.csproj",
-      "msbuildProject": "../Modelo/Modelo.csproj"
+      "path": "../Modelo/ControlDeGastos.Data.csproj",
+      "msbuildProject": "../Modelo/ControlDeGastos.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ControlDeGastos.Data >= 1.0.0",
       "MimeKit >= 4.4.0",
-      "Modelo >= 1.0.0",
       "Telegram.Bot >= 19.0.0"
     ]
   },
@@ -3509,14 +3509,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\Modelo.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\Modelo.csproj"
+            "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\ControlDeGastos.Data.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\ControlDeGastos.Data.csproj"
             }
           }
         }
@@ -3561,7 +3562,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

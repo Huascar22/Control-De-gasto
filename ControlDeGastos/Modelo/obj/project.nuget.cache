@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L7KVImys3JFBXNUUTBL/xSx5E/8XcuvajZDJczn4FB7eHWvEbBIdkkJVtliy7Hj8jF45q3sTA3CqqQHAbBbFcA==",
+  "dgSpecHash": "jb8gUzM4Ddc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\Modelo.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\ControlDeGastos.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

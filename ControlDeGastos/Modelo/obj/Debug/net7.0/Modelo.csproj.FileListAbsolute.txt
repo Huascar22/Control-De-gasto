@@ -60,9 +60,10 @@ C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Mod
 C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\Modelo.AssemblyInfo.cs
 C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\Modelo.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\Modelo.csproj.CopyComplete
 C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\Modelo.dll
 C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\refint\Modelo.dll
 C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\Modelo.pdb
 C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\Modelo.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\ref\Modelo.dll
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\Modelo.sourcelink.json
+C:\Users\Lenovo\Desktop\Programacion\Programacion2\ProyectoF\ControlDeGastos\Modelo\obj\Debug\net7.0\Modelo.csproj.Up2Date

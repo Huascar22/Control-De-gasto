@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Modelo\Modelo.csproj" />
+    <ProjectReference Include="..\Modelo\ControlDeGastos.Data.csproj" />
   </ItemGroup>
 
 </Project>

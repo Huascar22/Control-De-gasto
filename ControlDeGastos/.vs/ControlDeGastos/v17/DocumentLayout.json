@@ -3,64 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controldegastos\\controlador\\usuariocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|solutionrelative:controldegastos\\controlador\\usuariocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controlador\\logicausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|solutionrelative:controlador\\logicausuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C9198A2-505F-46E6-B938-C22A06932F81}|Modelo\\Modelo.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\modelo\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C9198A2-505F-46E6-B938-C22A06932F81}|Modelo\\Modelo.csproj|solutionrelative:modelo\\usuariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controldegastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|solutionrelative:controldegastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controlador\\controlador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|solutionrelative:controlador\\controlador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controldegastos\\controlador\\limitegasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|solutionrelative:controldegastos\\controlador\\limitegasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controldegastos\\controlador\\gastocategorizadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|solutionrelative:controldegastos\\controlador\\gastocategorizadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controldegastos\\controlador\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{279FA79D-BD23-4352-B713-78D96391EE67}|ControlDeGastos\\Vistas.csproj|solutionrelative:controldegastos\\controlador\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controlador\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|solutionrelative:controlador\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controlador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|solutionrelative:controlador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controlador\\logicagasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|solutionrelative:controlador\\logicagasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00EF9E07-A6BF-407B-8C53-4A2CB508D3F4}|ControlDeGasto.Test\\ControlDeGasto.Test.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controldegasto.test\\categoriatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EF9E07-A6BF-407B-8C53-4A2CB508D3F4}|ControlDeGasto.Test\\ControlDeGasto.Test.csproj|solutionrelative:controldegasto.test\\categoriatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controlador\\logicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|solutionrelative:controlador\\logicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controlador\\dtos\\dtolimitegasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|solutionrelative:controlador\\dtos\\dtolimitegasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controlador\\dtos\\dtogastoscategorizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|solutionrelative:controlador\\dtos\\dtogastoscategorizados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controlador\\dtos\\dtocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}|Controlador\\Controlador.csproj|solutionrelative:controlador\\dtos\\dtocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00EF9E07-A6BF-407B-8C53-4A2CB508D3F4}|ControlDeGasto.Test\\ControlDeGasto.Test.csproj|c:\\users\\lenovo\\desktop\\programacion\\programacion2\\proyectof\\controldegastos\\controldegasto.test\\controldegasto.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00EF9E07-A6BF-407B-8C53-4A2CB508D3F4}|ControlDeGasto.Test\\ControlDeGasto.Test.csproj|solutionrelative:controldegasto.test\\controldegasto.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,202 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UsuarioContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\UsuarioContext.cs",
-              "RelativeDocumentMoniker": "Modelo\\UsuarioContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\UsuarioContext.cs",
-              "RelativeToolTip": "Modelo\\UsuarioContext.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAYwBsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T14:40:09.426Z",
+              "Title": "ControlDeGasto.Test",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGasto.Test\\ControlDeGasto.Test.csproj",
+              "RelativeDocumentMoniker": "ControlDeGasto.Test\\ControlDeGasto.Test.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGasto.Test\\ControlDeGasto.Test.csproj",
+              "RelativeToolTip": "ControlDeGasto.Test\\ControlDeGasto.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T03:29:14.65Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Controlador\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "ControlDeGastos\\Controlador\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Controlador\\CategoriaController.cs",
-              "RelativeToolTip": "ControlDeGastos\\Controlador\\CategoriaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T23:59:26.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GastoCategorizadoController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Controlador\\GastoCategorizadoController.cs",
-              "RelativeDocumentMoniker": "ControlDeGastos\\Controlador\\GastoCategorizadoController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Controlador\\GastoCategorizadoController.cs",
-              "RelativeToolTip": "ControlDeGastos\\Controlador\\GastoCategorizadoController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T22:22:52.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LimiteGasto.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Controlador\\LimiteGasto.cs",
-              "RelativeDocumentMoniker": "ControlDeGastos\\Controlador\\LimiteGasto.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Controlador\\LimiteGasto.cs",
-              "RelativeToolTip": "ControlDeGastos\\Controlador\\LimiteGasto.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T18:51:35.946Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LogicaUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\LogicaUsuarios.cs",
-              "RelativeDocumentMoniker": "Controlador\\LogicaUsuarios.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\LogicaUsuarios.cs",
-              "RelativeToolTip": "Controlador\\LogicaUsuarios.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwBEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T18:54:00.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioControllers.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Controlador\\UsuarioControllers.cs",
-              "RelativeDocumentMoniker": "ControlDeGastos\\Controlador\\UsuarioControllers.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Controlador\\UsuarioControllers.cs",
-              "RelativeToolTip": "ControlDeGastos\\Controlador\\UsuarioControllers.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAA5wBkAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T15:07:20.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Program.cs",
-              "RelativeDocumentMoniker": "ControlDeGastos\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Program.cs",
-              "RelativeToolTip": "ControlDeGastos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T20:19:44.988Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Token.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Token.cs",
-              "RelativeDocumentMoniker": "Controlador\\Token.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Token.cs",
-              "RelativeToolTip": "Controlador\\Token.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwC4AAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:56:50.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Program.cs",
-              "RelativeDocumentMoniker": "Controlador\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Program.cs",
-              "RelativeToolTip": "Controlador\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T23:59:52.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Controlador.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Controlador.csproj",
-              "RelativeDocumentMoniker": "Controlador\\Controlador.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Controlador.csproj",
-              "RelativeToolTip": "Controlador\\Controlador.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T10:46:36.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LogicaGasto.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\LogicaGasto.cs",
-              "RelativeDocumentMoniker": "Controlador\\LogicaGasto.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\LogicaGasto.cs",
-              "RelativeToolTip": "Controlador\\LogicaGasto.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T22:19:58.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "LogicaCategoria.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\LogicaCategoria.cs",
               "RelativeDocumentMoniker": "Controlador\\LogicaCategoria.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\LogicaCategoria.cs",
               "RelativeToolTip": "Controlador\\LogicaCategoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABBAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T12:06:57.456Z"
+              "WhenOpened": "2024-07-11T03:24:20.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DtoLimiteGasto.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Dtos\\DtoLimiteGasto.cs",
-              "RelativeDocumentMoniker": "Controlador\\Dtos\\DtoLimiteGasto.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Dtos\\DtoLimiteGasto.cs",
-              "RelativeToolTip": "Controlador\\Dtos\\DtoLimiteGasto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "DocumentIndex": 0,
+              "Title": "CategoriaTest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGasto.Test\\CategoriaTest.cs",
+              "RelativeDocumentMoniker": "ControlDeGasto.Test\\CategoriaTest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGasto.Test\\CategoriaTest.cs",
+              "RelativeToolTip": "ControlDeGasto.Test\\CategoriaTest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T13:02:07.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DtoGastosCategorizados.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Dtos\\DtoGastosCategorizados.cs",
-              "RelativeDocumentMoniker": "Controlador\\Dtos\\DtoGastosCategorizados.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Dtos\\DtoGastosCategorizados.cs",
-              "RelativeToolTip": "Controlador\\Dtos\\DtoGastosCategorizados.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T22:37:50.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DtoCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Dtos\\DtoCategoria.cs",
-              "RelativeDocumentMoniker": "Controlador\\Dtos\\DtoCategoria.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Controlador\\Dtos\\DtoCategoria.cs",
-              "RelativeToolTip": "Controlador\\Dtos\\DtoCategoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T10:44:02.743Z"
+              "WhenOpened": "2024-07-11T03:19:28.27Z",
+              "EditorCaption": ""
             }
           ]
         }

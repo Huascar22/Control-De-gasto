@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vistas", "ControlDeGastos\Vistas.csproj", "{279FA79D-BD23-4352-B713-78D96391EE67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlDeGastos.WEB", "ControlDeGastos\ControlDeGastos.WEB.csproj", "{279FA79D-BD23-4352-B713-78D96391EE67}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelo", "Modelo\Modelo.csproj", "{4C9198A2-505F-46E6-B938-C22A06932F81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlDeGastos.Data", "Modelo\ControlDeGastos.Data.csproj", "{4C9198A2-505F-46E6-B938-C22A06932F81}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controlador", "Controlador\Controlador.csproj", "{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlDeGasto.Test", "ControlDeGasto.Test\ControlDeGasto.Test.csproj", "{00EF9E07-A6BF-407B-8C53-4A2CB508D3F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3B1FD4E-C91B-4A2E-9FB7-A448B643135F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00EF9E07-A6BF-407B-8C53-4A2CB508D3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EF9E07-A6BF-407B-8C53-4A2CB508D3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EF9E07-A6BF-407B-8C53-4A2CB508D3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EF9E07-A6BF-407B-8C53-4A2CB508D3F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\Modelo.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\Modelo.csproj"
+              "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\ControlDeGastos.Data.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\ControlDeGastos.Data.csproj"
               }
             }
           }
@@ -78,16 +79,16 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\Modelo.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\ControlDeGastos.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\Modelo.csproj",
-        "projectName": "Modelo",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\ControlDeGastos.Data.csproj",
+        "projectName": "ControlDeGastos.Data",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\ControlDeGastos.Data.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
@@ -104,6 +105,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -164,7 +166,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

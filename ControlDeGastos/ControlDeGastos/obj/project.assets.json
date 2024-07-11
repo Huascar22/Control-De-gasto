@@ -1336,8 +1336,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "ControlDeGastos.Data": "1.0.0",
           "MimeKit": "4.4.0",
-          "Modelo": "1.0.0",
           "Telegram.Bot": "19.0.0"
         },
         "compile": {
@@ -1347,7 +1347,7 @@
           "bin/placeholder/Controlador.dll": {}
         }
       },
-      "Modelo/1.0.0": {
+      "ControlDeGastos.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -1355,10 +1355,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/Modelo.dll": {}
+          "bin/placeholder/ControlDeGastos.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Modelo.dll": {}
+          "bin/placeholder/ControlDeGastos.Data.dll": {}
         }
       }
     }
@@ -4190,10 +4190,10 @@
       "path": "../Controlador/Controlador.csproj",
       "msbuildProject": "../Controlador/Controlador.csproj"
     },
-    "Modelo/1.0.0": {
+    "ControlDeGastos.Data/1.0.0": {
       "type": "project",
-      "path": "../Modelo/Modelo.csproj",
-      "msbuildProject": "../Modelo/Modelo.csproj"
+      "path": "../Modelo/ControlDeGastos.Data.csproj",
+      "msbuildProject": "../Modelo/ControlDeGastos.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4211,9 +4211,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Vistas.csproj",
-      "projectName": "Vistas",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\Vistas.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\ControlDeGastos.WEB.csproj",
+      "projectName": "ControlDeGastos.WEB",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\ControlDeGastos.WEB.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\Desktop\\Programacion\\Programacion2\\ProyectoF\\ControlDeGastos\\ControlDeGastos\\obj\\",
       "projectStyle": "PackageReference",
@@ -4230,6 +4230,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4291,7 +4292,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

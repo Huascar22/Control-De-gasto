@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "Controlador/1.0.0": {
         "dependencies": {
+          "ControlDeGastos.Data": "1.0.0",
           "MimeKit": "4.4.0",
-          "Modelo": "1.0.0",
           "Telegram.Bot": "19.0.0"
         },
         "runtime": {
@@ -687,13 +687,13 @@
           }
         }
       },
-      "Modelo/1.0.0": {
+      "ControlDeGastos.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
         },
         "runtime": {
-          "Modelo.dll": {}
+          "ControlDeGastos.Data.dll": {}
         }
       }
     }
@@ -1173,7 +1173,7 @@
       "path": "telegram.bot/19.0.0",
       "hashPath": "telegram.bot.19.0.0.nupkg.sha512"
     },
-    "Modelo/1.0.0": {
+    "ControlDeGastos.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
