@@ -17,5 +17,5 @@ variables:
 steps:
 # - script: dotnet build --configuration $(buildConfiguration)
 #   displayName: 'dotnet build $(buildConfiguration)'
-- script: dotnet build ControlGasto.sln --configuration Release
+- script: dotnet build ControlDeGastos.sln --configuration Release
   # workingDirectory: $(Build.SourcesDirectory)/path/to/your/project
