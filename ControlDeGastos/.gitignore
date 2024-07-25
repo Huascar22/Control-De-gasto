@@ -1,0 +1,69 @@
+# Visual Studio
+.vscode/
+.vs/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.obj
+*.opensdf
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.tlog
+*.VC.db
+*.VC.opendb
+*.ldb
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+$RECYCLE.BIN/
+
+# Office Temp Files
+~$*
+*.lnk
+
+# Windows shortcuts
+*.lnk
+
+# Windows lock file
+*.lock
+
+# Exclude node_modules from git
+node_modules/
+
+# Exclude bin and obj directories
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Microsoft Azure Web App publish settings
+*.Publish.xml
+*.azurePubxml
